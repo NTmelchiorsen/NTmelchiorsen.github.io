@@ -5,6 +5,11 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: page
 ---
+<figure>
+<left>
+   <a href="/images/CV_photo.jpg"><img width="40%" src="/images/CV_photo.jpg"></a>
+</left>
+</figure>
 Just testing
