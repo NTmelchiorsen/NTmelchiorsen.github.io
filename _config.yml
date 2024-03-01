@@ -30,6 +30,7 @@ header_pages:
   - Posts.md
   - About.md
   - Contact.md
+  - Another.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
