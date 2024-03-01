@@ -9,7 +9,7 @@ layout: page
 ---
 <figure>
 <left>
-   <a href="/images/CV_photo.jpg"><img width="40%" src="/images/CV_photo.jpg"></a>
+   <a href="Images/CV_photo.jpg"><img width="40%" src="Images/CV_photo.jpg"></a>
 </left>
 </figure>
 Just testing
