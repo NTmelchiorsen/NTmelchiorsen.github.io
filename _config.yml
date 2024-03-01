@@ -59,7 +59,7 @@ minima:
     - { platform: github,         user_url: "https://github.com/NTmelchiorsen" }
     - { platform: instagram,      user_url: "https://www.instagram.com/nikolaj.toeffel/" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/nikolaj-toepfer-melchiorsen/" }
-    - { platform: flickr,              user_url: "https://twitter.com/NikolajMelchi" }
+    - { platform: flickr,         user_url: "https://twitter.com/NikolajMelchi" }
 
 
 
