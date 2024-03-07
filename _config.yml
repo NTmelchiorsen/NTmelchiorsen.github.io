@@ -27,10 +27,13 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+
   - Posts.md
+
   - About.md
+
   - Contact.md
-  - tester.md
+
 
 
 
