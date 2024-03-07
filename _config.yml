@@ -28,11 +28,11 @@ plugins:
 # in order as they should show up.
 header_pages:
 
-  - Posts.md
+  - Posts
 
-  - About.md
+  - About
 
-  - Contact.md
+  - Contact
 
 
 
