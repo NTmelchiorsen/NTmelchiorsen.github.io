@@ -12,4 +12,4 @@ layout: page
    <a href="Images/CV_photo.jpg"><img width="40%" src="Images/CV_photo.jpg"></a>
 </left>
 </figure>
-Just testing
+Just testing some more
