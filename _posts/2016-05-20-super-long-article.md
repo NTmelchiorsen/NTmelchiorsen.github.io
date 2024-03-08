@@ -13,9 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 
 
-<a href="PDF\Strategisk_værdiansættelse_af_Tesla endelig version.pdf" download>Click to Download</a>
+<object data="{PDF\Strategisk_værdiansættelse_af_Tesla endelig version.pdf}" width="1000" height="1000" type='application/pdf'/>
 
-
-<a href="[def]" download>Click to Download</a>
-
-[def]: DF\Strategisk_værdiansættelse_af_Tesla endelig version.pd
