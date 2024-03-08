@@ -29,7 +29,7 @@ plugins:
 header_pages:
   - Posts.md
   - Contact.md
-  - Contact2.md
+  - About.md
 
 
 
