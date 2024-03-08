@@ -1,5 +1,5 @@
 ---
-layout: PDF
+layout: post
 title: "check2"
 categories: misc
 ---
