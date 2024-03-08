@@ -20,3 +20,8 @@ PDF's\Strategisk_værdiansættelse_af_Tesla endelig version.pdf
 
 [def]: strategisk_værdiansættelse_af_Tesla endelig version.pd'
 
+<figure>
+<left>
+   <a href="PDF's\Strategisk_værdiansættelse_af_Tesla endelig version.pdf"><img width="40%" src="PDF's\Strategisk_værdiansættelse_af_Tesla endelig version.pdf"></a>
+</left>
+</figure>
