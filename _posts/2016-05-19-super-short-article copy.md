@@ -1,6 +1,6 @@
 ---
-layout: PDF
-title: "check2"
+layout: post
+title: "check"
 categories: misc
 ---
 
