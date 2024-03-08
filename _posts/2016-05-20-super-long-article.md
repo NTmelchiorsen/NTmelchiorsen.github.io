@@ -13,5 +13,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 
 
-<object data="{PDF\Strategisk_værdiansættelse_af_Tesla endelig version.pdf}" width="1000" height="1000" type='application/pdf'/>
-
