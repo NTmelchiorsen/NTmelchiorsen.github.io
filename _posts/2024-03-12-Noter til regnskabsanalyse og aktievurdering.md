@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Noiter til regnskabsanalyse og aktievurdering"
+title: "Strategisk værdiansættelse af Tesla"
 categories: Noter
 ---
 
-This is my first real post on this website, though there are still a lot of things to imporve upon, i have decided to upload this for now. 
+<object data="_site\PDF\Tesla.pdf" width="1000" height="1000" type='application/pdf'></object>
