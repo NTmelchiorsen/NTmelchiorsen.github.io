@@ -7,9 +7,11 @@
 #
 layout: page
 ---
+# Heyo! I am Nikolaj :)
 <figure>
 <left>
-   <a href="Images/CV_photo.jpg"><img width="40%" src="Images/CV_photo.jpg"></a>
+   <a href="Images/CV_photo.jpg"><img width="100%" src="Images/CV_photo.jpg"></a>
 </left>
 </figure>
-Just testing some more
+
+This is my official website, which includes a blog and my resume. Feel free to contact me through any of the options shown at the bottom of the page.
