@@ -7,7 +7,7 @@
 #
 layout: page
 ---
-# Heyo! I am Nikolaj :)
+# Heyo! I'm Nikolaj :)
 <figure>
 <left>
    <a href="Images/CV_photo.jpg"><img width="100%" src="Images/CV_photo.jpg"></a>
@@ -15,3 +15,4 @@ layout: page
 </figure>
 
 This is my official website, which includes a blog and my resume. Feel free to contact me through any of the options shown at the bottom of the page.
+
