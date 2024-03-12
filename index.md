@@ -7,6 +7,7 @@
 #
 layout: page
 ---
+# Heyo! I'm Nikolaj :)
 
 This is my official website, which includes a blog and my resume. Feel free to contact me through any of the options shown at the bottom of the page.
 <figure>
