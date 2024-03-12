@@ -8,11 +8,12 @@
 layout: page
 ---
 # Heyo! I'm Nikolaj :)
+This is my official website, which includes a blog and my resume. Feel free to contact me through any of the options shown at the bottom of the page.
 <figure>
 <left>
-   <a href="Images/CV_photo.jpg"><img width="100%" src="Images/CV_photo.jpg"></a>
+   <a href="Images/CV_photo.jpg"><img width="80%" src="Images/CV_photo.jpg"></a>
 </left>
 </figure>
 
-This is my official website, which includes a blog and my resume. Feel free to contact me through any of the options shown at the bottom of the page.
+
 
