@@ -21,3 +21,5 @@ categories: Noter
     </gmp-map>
   </body>
 </html>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
