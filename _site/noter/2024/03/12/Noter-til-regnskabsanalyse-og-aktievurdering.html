@@ -67,6 +67,22 @@
   <div class="post-content e-content" itemprop="articleBody">
     <object data="_site\PDF\Tesla.pdf" width="1000" height="1000" type="application/pdf"></object>
 
+<p>&lt;!DOCTYPE html&gt;</p>
+<html>
+  <head>
+    <title>Simple Marker</title>
+    <!-- The callback parameter is required, so we use console.debug as a noop -->
+    <script async="" src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY_HERE&amp;callback=console.debug&amp;libraries=maps,marker&amp;v=beta">
+    </script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <gmp-map center="55.65974044799805,12.606501579284668" zoom="14" map-id="DEMO_MAP_ID">
+      <gmp-advanced-marker position="55.65974044799805,12.606501579284668" title="My location"></gmp-advanced-marker>
+    </gmp-map>
+  </body>
+</html>
+
   </div><a class="u-url" href="/noter/2024/03/12/Noter-til-regnskabsanalyse-og-aktievurdering.html" hidden></a>
 </article>
 
