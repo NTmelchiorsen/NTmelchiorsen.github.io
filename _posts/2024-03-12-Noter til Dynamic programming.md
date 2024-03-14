@@ -506,3 +506,4 @@ Denne opgave bliver også løst i exercises, hvor man indeler de forskellige par
 Disse er variable, der bliver lave til at opbevare henholdsvis løsninger, parametre og simuleringer.
 
 @ bruges til matrix multiplikation.
+
